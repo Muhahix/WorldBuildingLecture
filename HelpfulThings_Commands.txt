@@ -1,0 +1,31 @@
+----KEYBINDS----
+
+Alt+ drag an actor to duplicate
+
+Hold Ctrl+L and move mouse to change sun angle (Using a sky atmosphere, and having the directional light selected)
+
+F8 while in play mode -> De-attach from character
+
+"End" to snap an actor on the landscape
+
+Ctrl+Shift+, (comma) -> Open GPU Visualizer 
+
+` (or ~ key above Tab) to open the console
+
+
+----CONSOLE COMMANDS----
+
+stat fps -> Shows Frames Per Second and milliseconds
+
+stat unit -> Shows GPU, draw calls and Game contribution to ms (milliseconds) 
+
+in the same manner there is stat gpu, game, rhi, net, and many more
+
+stat none -> Hides all overlays produced by "stat" commands
+
+
+----WEBSITES---- (I am in no way supported by any of the websites mentioned)
+
+Download HDRI (for Skylight): HDRI Haven
+
+Free procedural world building tool: quadspinner.com (GAEA) 
