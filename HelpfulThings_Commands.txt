@@ -12,6 +12,15 @@ Ctrl+Shift+, (comma) -> Open GPU Visualizer
 
 ` (or ~ key above Tab) to open the console
 
+Ctrl+B to navigate to selected object in the content browser
+
+Ctrl+ (Any number) to save editor view -> Press at any time the number again to snap to the view
+
+Shift+Ctrl+H -> the same as stat fps
+
+g -> Toggle game view
+
+Ctrl+W to duplicate
 
 ----CONSOLE COMMANDS----
 
@@ -29,3 +38,27 @@ stat none -> Hides all overlays produced by "stat" commands
 Download HDRI (for Skylight): HDRI Haven
 
 Free procedural world building tool: quadspinner.com (GAEA) 
+
+Download 3D models: Sketchfab, Turbosquid,...
+
+Youtube channels with shader content: Ben Cloward, Tharlevfx
+
+----MATERIAL EDITOR SHORTCUTS----
+
+Select nodes and C -> Comment box
+
+Select nodes and Q -> Straighten nodes
+
+
+-(Press key and click)
+
+S -> ScalarParameter
+
+1,2,3,4 -> Vector 1,2,3,4
+
+A -> Add node
+
+M -> Multiply node
+
+O -> 1 minus
+
